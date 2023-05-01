@@ -1,5 +1,5 @@
 ### Oii, sou a Isabel
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 📫 Contate-me em: isabel.m.rosapf@gmail.com
 - ⚡ Fun fact: Meu filme preferido é: O castelo animdo
 
