@@ -1,6 +1,6 @@
 ### Oii, sou a Isabel
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 📫 Contate-me em: isabel.m.rosapf@gmail.com
+- 📫 Contate-me em: isabel.m.rosapfrs@gmail.com
 - ⚡ Fun fact: Meu filme preferido é: O castelo animdo
 
 
